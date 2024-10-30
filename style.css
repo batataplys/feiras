@@ -1,3 +1,32 @@
-.titulo {
-    text-align: center;
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miojos da Turma da Mônica</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="titulo">Miojo</h1>
+        <div class="miojos">
+            <div class="miojo">
+                <img src="miojo_monica.jpg" alt="Miojo da Mônica">
+                <h2>Mônica</h2>
+            </div>
+            <div class="miojo">
+                <img src="miojo_cebolinha.jpg" alt="Miojo do Cebolinha">
+                <h2>Cebolinha</h2>
+            </div>
+            <div class="miojo">
+                <img src="miojo_magali.jpg" alt="Miojo da Magali">
+                <h2>Magali</h2>
+            </div>
+            <div class="miojo">
+                <img src="miojo_cascao.jpg" alt="Miojo do Cascão">
+                <h2>Cascão</h2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
